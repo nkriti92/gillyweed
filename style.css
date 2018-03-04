@@ -1,0 +1,32 @@
+#screens {
+	max-width: 900px;
+	margin: auto;
+}
+svg {
+	margin: 25px;
+	border: dashed grey 1px;
+}
+.containers {
+	width: 400px;
+	display: inline-block;
+	border: dashed grey 1px;
+	margin: 24px;
+}
+.colorBox {
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	margin-left: 20px;
+}
+#red {
+	background-color: red;
+}
+#yellow {
+	background-color: yellow;
+}
+#blue {
+	background-color: blue;
+}
+#green {
+	background-color: green;
+}
